@@ -1,4 +1,4 @@
-# Proyecto de Predicción de Abandono de Clientes (Churn Analysis) – Fase 2
+# Proyecto de Predicción de Abandono de Clientes (Churn Analysis) 
 
 Este repositorio contiene la fase de Modelado Predictivo y Estrategia de Retención. El objetivo principal es utilizar algoritmos de Machine Learning para identificar de manera proactiva a los clientes con alta probabilidad de cancelar su servicio, permitiendo implementar intervenciones comerciales basadas en datos.
 
